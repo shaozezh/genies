@@ -1,0 +1,29 @@
+query SearchExperiences($input: SearchExperiencesInput!) {
+    searchExperiences(input: $input) {
+        pagination {
+            nextCursor,
+        },
+        experiences {
+            appClientId,
+            builds {
+                createdAt,
+                description,
+                experienceId,
+                id,
+                reviewerId,
+                s3Url,
+                status,
+                updatedAt
+            },
+            clientSecret,
+            createdAt,
+            description,
+            devClientSecret,
+            id,
+            name,
+            ownerId,
+            updatedAt,
+            version
+        }
+    }
+}

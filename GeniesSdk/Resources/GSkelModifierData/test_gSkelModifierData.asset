@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1388685529, guid: ec28ef47ed1694fa4a1469f827195419, type: 3}
+  m_Name: test_gSkelModifierData
+  m_EditorClassIdentifier: 
+  GSkelMods:
+  - Name: headTranslate
+    Enabled: 1
+    Joints:
+    - JointName: Head
+      ControlledAttrs:
+      - AttrType: 0
+        Axis: 1
+        DisplacementMinMax: {x: -0.5, y: 0.5}
+  - Name: headRotate
+    Enabled: 1
+    Joints:
+    - JointName: Head
+      ControlledAttrs:
+      - AttrType: 1
+        Axis: 0
+        DisplacementMinMax: {x: -45, y: 45}
+  - Name: headScale
+    Enabled: 1
+    Joints:
+    - JointName: Head
+      ControlledAttrs:
+      - AttrType: 2
+        Axis: 3
+        DisplacementMinMax: {x: 0.5, y: 1.5}

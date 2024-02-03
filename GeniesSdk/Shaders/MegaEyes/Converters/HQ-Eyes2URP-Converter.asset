@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1074244106, guid: e012df9758eb34536abff671b8290ca9, type: 3}
+  m_Name: HQ-Eyes2URP-Converter
+  m_EditorClassIdentifier: 
+  outputMaterial: {fileID: 2100000, guid: 8cb1ab2278e2a1146bda8badb6d52b84, type: 2}
+  textureSettings: {fileID: 11400000, guid: 561441f912595f742b8f77931958729a, type: 2}
+  supportedShaders:
+  - {fileID: -6465566751694194690, guid: 05e7beb22116e584c9e12414ecccff86, type: 3}
+  maps:
+  - outputPropertyName: _BaseMap
+    mapExporter: {fileID: 11400000, guid: 47fae4de5617a0748a0f8a3c195a660a, type: 2}
+    textureSettings: {fileID: 11400000, guid: eadecc296b58ee942bd65bf0b8761886, type: 2}
+  - outputPropertyName: _BumpMap
+    mapExporter: {fileID: 11400000, guid: fff823bc8ca006e49aa398e6489d7e68, type: 2}
+    textureSettings: {fileID: 0}
+  - outputPropertyName: _MetallicGlossMap
+    mapExporter: {fileID: 11400000, guid: ca88f85f26485e144baae08a95124c2c, type: 2}
+    textureSettings: {fileID: 11400000, guid: eadecc296b58ee942bd65bf0b8761886, type: 2}
+  - outputPropertyName: _EmissionMap
+    mapExporter: {fileID: 11400000, guid: 9b7e7b6b488e25940a76f550c0a0e2dc, type: 2}
+    textureSettings: {fileID: 0}
+  mapExportingProperties:
+    floats:
+    - name: _Bake
+      value: 1
+    - name: _Glitter
+      value: 1
+    integers: []
+    textures: []
+    colors: []
+    vectors: []

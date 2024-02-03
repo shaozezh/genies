@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 018070b8cccb4354b85408e9c10aedee, type: 3}
+  m_Name: ZombieSurvival_arrow_AnimationsObject
+  m_EditorClassIdentifier: 
+  m_holdingLeft: {fileID: 7400000, guid: 966b1e00c0a39b547909bc9d870542a8, type: 3}
+  m_holdingRight: {fileID: 7400002, guid: 966b1e00c0a39b547909bc9d870542a8, type: 3}
+  m_crouchingHoldingLeft: {fileID: 7400000, guid: 2abff554e5984974d8e5600bd9ad31f0,
+    type: 3}
+  m_crouchingHoldingRight: {fileID: 7400002, guid: 2abff554e5984974d8e5600bd9ad31f0,
+    type: 3}
+  m_interactionLeftStart: {fileID: 0}
+  m_interactionLeftLoop: {fileID: 0}
+  m_interactionLeftEnd: {fileID: 0}
+  m_interactionLeftLoopTime: 1
+  m_interactionRightStart: {fileID: 0}
+  m_interactionRightLoop: {fileID: 0}
+  m_interactionRightEnd: {fileID: 0}
+  m_interactionRightLoopTime: 1
+  m_useStandingInteractionAnimations: 0
+  m_crouchingInteractionLeftStart: {fileID: 0}
+  m_crouchingInteractionLeftLoop: {fileID: 0}
+  m_crouchingInteractionLeftEnd: {fileID: 0}
+  m_crouchingInteractionLeftLoopTime: 1
+  m_crouchingInteractionRightStart: {fileID: 0}
+  m_crouchingInteractionRightLoop: {fileID: 0}
+  m_crouchingInteractionRightEnd: {fileID: 0}
+  m_crouchingInteractionRightLoopTime: 1
+  m_equipLeft: {fileID: 7400002, guid: 88d284e1253a7c34681995d5f550eedf, type: 3}
+  m_equipRight: {fileID: 7400000, guid: 88d284e1253a7c34681995d5f550eedf, type: 3}
+  m_unEquipLeft: {fileID: 7400002, guid: 098fd9ddeb429a645b06766e13efe900, type: 3}
+  m_unEquipRight: {fileID: 7400000, guid: 098fd9ddeb429a645b06766e13efe900, type: 3}
+  m_isWeapon: 1

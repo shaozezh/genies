@@ -1,0 +1,28 @@
+query SearchLocationExperiences($input: SearchLocationExperiencesInput!) {
+    searchLocationExperiences(input: $input) {
+        locationExperiences {
+            location {
+                id,
+                name,
+                createdAt,
+                updatedAt,
+                coordinates {
+                    latitude,
+                    longitude
+                }
+            },
+            experience {
+                id,
+                name,
+                description,
+                version,
+                ownerId,
+                appClientId,
+                clientSecret,
+                devClientSecret,
+                createdAt,
+                updatedAt,
+            }
+        }
+    }
+}

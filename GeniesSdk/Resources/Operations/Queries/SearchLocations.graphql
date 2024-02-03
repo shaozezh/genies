@@ -1,0 +1,14 @@
+query SearchLocations($input: SearchLocationsInput!) {
+    searchLocations(input: $input) {
+        locations {
+            id,
+            name,
+            coordinates {
+                longitude,
+                latitude
+            },
+            createdAt,
+            updatedAt
+        }
+    }
+}

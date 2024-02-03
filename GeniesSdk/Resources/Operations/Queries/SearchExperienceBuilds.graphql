@@ -1,0 +1,42 @@
+query SearchExperienceBuilds($input: SearchExperienceBuildsInput!) {
+    searchExperienceBuilds(input: $input) {
+        pagination {
+            leftCursor,
+            rightCursor
+        },
+        builds {
+            build {
+                createdAt,
+                description,
+                experienceId,
+                id,
+                reviewerId,
+                s3Url,
+                status,
+                updatedAt,
+            }
+            experience {
+                appClientId,
+                builds {
+                    createdAt,
+                    description,
+                    experienceId,
+                    id,
+                    reviewerId,
+                    s3Url,
+                    status,
+                    updatedAt
+                },
+                clientSecret,
+                createdAt,
+                description,
+                devClientSecret,
+                id,
+                name,
+                ownerId,
+                updatedAt,
+                version
+            },
+        }
+    }
+}

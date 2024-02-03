@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -429745365, guid: e012df9758eb34536abff671b8290ca9, type: 3}
+  m_Name: Simple2URP-Converter
+  m_EditorClassIdentifier: 
+  outputMaterial: {fileID: 2100000, guid: 1b293b9a31271274ea7db1739e782116, type: 2}
+  textureCopier: {fileID: 11400000, guid: 85e4eb1b80681414184f084490c410dc, type: 2}
+  overrideTextureCopier: 0
+  copyTextures: 1
+  useCustomNameForTextureCopies: 1
+  customTextureNamesFormat: '{0}--{2}'
+  supportedShaders:
+  - {fileID: -6465566751694194690, guid: f0531c923829cd043be9a66379d1e164, type: 3}

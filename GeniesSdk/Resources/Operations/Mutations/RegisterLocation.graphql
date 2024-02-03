@@ -1,0 +1,5 @@
+mutation RegisterLocation($input: RegisterLocationInput!) {
+    registerLocation(input: $input) {
+        locationId
+    }
+}

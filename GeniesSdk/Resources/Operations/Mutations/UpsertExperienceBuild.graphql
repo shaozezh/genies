@@ -1,0 +1,15 @@
+mutation UpsertExperienceBuild($input: UpsertExperienceBuildInput!) {
+    upsertExperienceBuild(input: $input) {
+        build {
+            createdAt,
+            description,
+            experienceId,
+            id,
+            reviewerId,
+            s3Url,
+            status,
+            updatedAt
+        },
+        presignedUrl
+    }
+}
