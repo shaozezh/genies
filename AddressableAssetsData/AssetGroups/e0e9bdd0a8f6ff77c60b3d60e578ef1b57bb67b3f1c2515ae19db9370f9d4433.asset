@@ -147,11 +147,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - e0e9bdd0a8f6ff77c60b3d60e578ef1b57bb67b3f1c2515ae19db9370f9d4433
-  - m_GUID: caff98d8b8fd3fb408d71ea5dccea4bd
-    m_Address: Grass
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - e0e9bdd0a8f6ff77c60b3d60e578ef1b57bb67b3f1c2515ae19db9370f9d4433
   - m_GUID: 46938a130cc933440aec4dafdbc289f0
     m_Address: Ground
     m_ReadOnly: 0
@@ -1013,11 +1008,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - e0e9bdd0a8f6ff77c60b3d60e578ef1b57bb67b3f1c2515ae19db9370f9d4433
   - m_GUID: 93827258b81db46e59723df1bffb8bed
-    m_Address: grass
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - e0e9bdd0a8f6ff77c60b3d60e578ef1b57bb67b3f1c2515ae19db9370f9d4433
-  - m_GUID: ccef515a6751f47899f2f4f8d3a0fe80
     m_Address: grass
     m_ReadOnly: 0
     m_SerializedLabels:
