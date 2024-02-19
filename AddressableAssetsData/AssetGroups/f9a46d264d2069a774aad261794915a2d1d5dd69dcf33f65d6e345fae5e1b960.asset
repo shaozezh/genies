@@ -212,11 +212,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 587458ff9a54c1b4f86d51734ba82c03
-    m_Address: Map Pointer
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 152ac7367bfafd74cbf6552fcc3bdb1f
     m_Address: MobileFreeZombieSimpleMovement
     m_ReadOnly: 0
@@ -244,21 +239,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: b898a679c032bdd43bd998a51570a794
     m_Address: riffle_hornet_white
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 3bef65cf5f043d24abd8631af041af58
-    m_Address: RingVFX
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 7fc478aa831795d4eb2c755df8dc05ec
-    m_Address: Soccer Field
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: c656fb4a96c72c142a8b961090a0b7e1
-    m_Address: Waypoint
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -367,88 +347,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: b3567fc42dbae9c4d9e4e3ca516bb732
-    m_Address: arrow
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: ba9f5e91e4d20e044bb8821686f926a6
-    m_Address: compass_bar
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 0aa9fc6b84c8bfc4ca8326eb5067d4e2
-    m_Address: Delivery-box-icon
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 987292b9969412548a40a5fe829fe036
     m_Address: HDStockImages.com-atmny0
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 25b456652e070f14b960ce18b07d2852
-    m_Address: icons01
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 77a152007dabd1e4eaf846beb7cbf793
-    m_Address: mapPointer
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: e88252fe759ab0a448cb4e5e4cb7d97e
-    m_Address: message
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 2822af8e8e8b0f14e83acc5d84d41c9b
-    m_Address: PngItem_2728304
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 3973b85171242ca45b8432d78978a45a
-    m_Address: PowerupBar
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 45e4c7e0f4e3ef64a83d056671231737
-    m_Address: PowerupBar
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 8c6b02f25f2a6b742a2a8506835e5ea5
-    m_Address: PowerupBtn
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: ada489988b1cf064a8c1441541230cb0
-    m_Address: PowerupFrame
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: aa3766a6a50180345a63c7ff2c47a5f0
-    m_Address: PowerupFrameColored
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 445c5dab6ca07494ea302bd1b8397356
-    m_Address: PowerupFrameNew
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: e78a739cbe1a8a5469bf8a99b26c86a1
-    m_Address: screen_layout
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: a88d67f671383c24091d909baed847a5
-    m_Address: screen_off_icon
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 43cffca84e01ab946bfeb303c46b45dd
-    m_Address: screen_on_icon
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -1132,11 +1032,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: eab2ceb52a7f679409e7b83946bf002b
-    m_Address: MI_Z_A_Hotel_Base_color
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 9e5bf124ccd01474d83552fe377eaa83
     m_Address: MI_Z_A_Ice_Creame_S_Base_color
     m_ReadOnly: 0
@@ -1172,11 +1067,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: fbe54b81c56419248ae476fcbf9e9a5e
-    m_Address: MI_Z_A_Supermarket_Base_color
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 91391f8ac3f81af44809453d09db02df
     m_Address: MI_Z_A_Trees_D_Base_color
     m_ReadOnly: 0
@@ -1189,21 +1079,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 57812ea17d0dde04a9a6af0924981675
     m_Address: MI_Z_A_Trees_S_Base_color
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: de0963934f8b5604f9481d217924c860
-    m_Address: Mi_Z_A_Universitet_Base_color
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 313515323c9077c4986eca4b8ba58c69
-    m_Address: MI_Z_A_Y_01_D_Base_color_1001
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 4d04f20afaa685e41afdafe2bc29efab
-    m_Address: MI_Z_A_Y_01_S_Base_color_1001
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -1657,11 +1532,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 0c2e856a1fc1d1f48a5831e345a84f75
-    m_Address: SM_Z_A_Supermarket
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: d0ead123d5d75f44c967646e73f546bf
     m_Address: SM_Z_A_Bench_1
     m_ReadOnly: 0
@@ -1687,11 +1557,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: de2136e60e39e144e87350d289114823
-    m_Address: SM_Z_A_Station
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 7eaf9706346d8ff4a87192e7dfa6cb4d
     m_Address: SM_Z_A_Skyscraper_01
     m_ReadOnly: 0
@@ -1714,21 +1579,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 2a1e395f8ea056c4fb270c38a72406b3
     m_Address: SM_Z_A_Hospital
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 3043f914379968f4fb3c1ad4269827f0
-    m_Address: SM_Z_A_Hotel
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 1ca69d859ed818a4ca71456af50b3188
-    m_Address: SM_Z_A_University
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: a8b60adf45d8b044d995ebd8dd08ea0c
-    m_Address: SM__Z_A_Building
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -1812,11 +1662,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: c1e64305ac6c37049826115803bface5
-    m_Address: SM_Z_A_Supermarket (2)
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 8d60a546340886c4d9da48051913af75
     m_Address: SM_Z_A_Bench_1
     m_ReadOnly: 0
@@ -1824,11 +1669,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: b2a8f05706d233d45963589585966e95
     m_Address: SM_Z_A_Bench_2
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 90c4f81d63ffe5e48bb9d4712f68b295
-    m_Address: SM_Z_A_Fire_Hydrant
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -1852,23 +1692,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 61dcb7d1b52fc3640b5f9fc8628e0711
-    m_Address: SM_Z_A_Station
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: dcdc455885a732146a60d641e2e7f49b
-    m_Address: SM_Z_A_Y_01_Alcove
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 5ea1fb2f9d81dfb4bab9b3cd18106ba0
     m_Address: SM_Z_A_Y_01_Fountain
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 6c8ba9b1f3039dc48b4015f18207c87c
-    m_Address: SM_Z_A_Y_01_H_01
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -1894,16 +1719,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: ace2796d8dd0364459abcbd77c76244f
     m_Address: SM_Z_A_Hospital
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 56008a09b0a225443ad4a46e730d2eb9
-    m_Address: SM_Z_A_Hotel
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 22cb4b599db46b74890d2b75d051f453
-    m_Address: SM_Z_A_University
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -2024,141 +1839,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: ff5603cd08f8407458b1f7c5cf8a22e2
     m_Address: SM_Z_A_Ttree_10
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 56f433345b1faa64eb50cdb197d34f71
-    m_Address: Crosshair_01
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 9ee137293631b9e46b1a401b72b130a4
-    m_Address: Crosshair_02
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 8c89ed5746a4faa48bb97701cc2f2e35
-    m_Address: Crosshair_03
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: b8e78032f8af0954784d1fe9e5a09187
-    m_Address: Crosshair_04
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 26ce86e7f4d6e82438811bd217defb85
-    m_Address: Crosshair_05
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: b889ef0124f73fa4298de5e962dac98b
-    m_Address: Crosshair_06
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: c9eecbebc2f28f94488fbbf662912f1a
-    m_Address: Crosshair_07
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 6630dbfefd1c68a42971b0d02b77150e
-    m_Address: Crosshair_08
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: b26c1b2c24c056a43931e5b20d8d9193
-    m_Address: Crosshair_09
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: bfb6bd7e8471f5442bd8e524bdda3380
-    m_Address: Crosshair_10
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: dc7eb94056b536a4a9f810db7b171332
-    m_Address: Crosshair_11
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: e4fa8d5cbc85f214297ce7de14b56d3f
-    m_Address: Crosshair_12
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: b493e9a4650e7ec4cb70cf682d680f1e
-    m_Address: Crosshair_13
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 1d1b964de9e4c50418b4d14cdf24d9ba
-    m_Address: Crosshair_14
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 3e60add3ecb1915459d46e3b3a0287f8
-    m_Address: Crosshair_15
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 743aae4b5553cb24eb7caf0bce1a4128
-    m_Address: Crosshair_16
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: c186448c466fad9478c38ce9c2f7b71b
-    m_Address: Crosshair_17
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 11e5ab06858788e4283a67ae91eca8b5
-    m_Address: Crosshair_18
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 1d78ea13ed0615c4996735add71cbd43
-    m_Address: Crosshair_19
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: de29d3e0a2748cb4782a8255c391ff02
-    m_Address: Crosshair_20
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: a8e5031638aa2204082c6f51d5fe1edb
-    m_Address: Crosshair_21
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 56f8165bc8b0a98419e06f018a808c4c
-    m_Address: Crosshair_22
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: e7e80d39e3e102147a3be13caa7cd3d7
-    m_Address: Crosshair_23
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 6f6c2d827b5ed454b90a1529cefe9041
-    m_Address: Crosshair_24
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: dcd5aae0341bd0642858735fe7fdc429
-    m_Address: Crosshair_25
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 552478a654d2eb8478c30045279d5688
-    m_Address: Crosshair_26
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 7789b657ea330f94d9b70d6d4a117aed
-    m_Address: Crosshair_27
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -2517,78 +2197,13 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 0908561a8c55bdb4287c0e8a27146dac
-    m_Address: SM_Y_02_F_Swing
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 066f66ca9512d054aad6d1cc213d826c
-    m_Address: SM_Y_02_F_Umbrella
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 7d456dc5600c87c4bbd80d9cc276207b
-    m_Address: SM_Z_A_Y_01_Alcove
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: e8894d1e9f6ec494d8c08bcc9acb8e18
     m_Address: SM_Z_A_Y_01_Fountain
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 0edc6da2468ee5c45a1bef45c8adb677
-    m_Address: SM_Z_A_Y_03_Furniture
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 811a7e56e042c4c478500bf29515b5b9
     m_Address: SM_Z_A_Y_04_Fauntain
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: d7c165017e86a8748bf9e9654bae5221
-    m_Address: SM_Z_A_Y_04_F_Trampoline
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: cd8c65a6492c33a49b4bde3123228570
-    m_Address: SM_Z_A_Y_04_F_Umbrella
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 28570719a2d097748a4fca9262ea2d4c
-    m_Address: SM_Z_A_Y_05_F_Trampoline
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 76c0e6f34bb3ee742aca131f06b576bd
-    m_Address: SM_Z_A_Y_06_F_Chair
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: d34414202a4b9974aa063527d4a4f3fe
-    m_Address: SM_Z_A_Y_06_F_Table
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 8378f9ab56a264649afc094d20f0802c
-    m_Address: SM_Z_A_Y_06_F_Umbrella
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: a69d119681d6af448b4a2d418354872e
-    m_Address: SM_Z_A_Y_07_Swing
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: ba80c7dfa1b23514b8da10e563b8864a
-    m_Address: SM_Z_A_Y_08_Furniture
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 2f2c72caaba80b1479947c80fe6e57c5
-    m_Address: SM_Z_A_Y_01_H_01
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -2727,21 +2342,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 44ff16d5f7f56164d8021ff7b268d3b4
-    m_Address: T_Z_A_Station_Base_color
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 76f607d1f0899e24981db5a9ea1e08bf
-    m_Address: T_Z_A_Station_Height
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: d255a66b3db9d894ca24cb28d7801feb
-    m_Address: T_Z_A_Station_Normal_OpenGL
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: f797e637fa79e7c49b72c0ead77b698a
     m_Address: T_Z_A_Bank_Base_color
     m_ReadOnly: 0
@@ -2779,46 +2379,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: ee25e9b84c0fbe14bb0ba41ef38e8a37
     m_Address: T_Z_A_Hospital_Normal_OpenGL
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 6a700c8d74e816445986d4d577c67a96
-    m_Address: T_Z_A_Hotel_Base_color
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 36b1e770b6e36e144954c1b9ba50fd0b
-    m_Address: T_Z_A_Hotel_Height
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 5fdb46b7f02851949a1346d763802f7f
-    m_Address: T_Z_A_Hotel_Mixed_AO
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 0c0b15607d0b7f944ab5868b494a513b
-    m_Address: T_Z_A_Hotel_Normal_OpenGL
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 130da3eef36793f42aa620a932884430
-    m_Address: T_Z_A_Universitet_Base_color
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 1f6d1e8fc8475da4e92b4e11e86ef4fb
-    m_Address: T_Z_A_Universitet_Height
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 8dfd74d24ca1d1b4ea8310b4f23d5936
-    m_Address: T_Z_A_Universitet_Mixed_AO
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 1ef84e87ca805d242ba3110535ff153b
-    m_Address: T_Z_A_Universitet_Normal_OpenGL
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -3017,26 +2577,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: d76c99409ad14ec409939a6497c58511
-    m_Address: T_Z_A_Supermarket_Base_color
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 9a0f190ddeb796644b094307be27c291
-    m_Address: T_Z_A_Supermarket_N_Height
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: f438ee60a548ba14299359c74d0f99e2
-    m_Address: T_Z_A_Supermarket_N_Mixed_AO
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: b82ae06e927c25d4aa79362fc2c977a5
-    m_Address: T_Z_A_Supermarket_N_Normal_OpenGL
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 1ba0ac1de4808b54ab1bfba6d80869a3
     m_Address: T_Z_A_donatus_D_Normal_OpenGL
     m_ReadOnly: 0
@@ -3132,11 +2672,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 07840a80cb7a3ab4b8b71efce974e628
-    m_Address: T_Z_A_Station_Base_color
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: fe1a15d897f379d44b918aaf924e1b30
     m_Address: T_Z_A_Skyscraper_01_N_Base_color
     m_ReadOnly: 0
@@ -3209,46 +2744,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 64db48ea2cc44c341a2b5106af6c7f0d
     m_Address: T_Z_A_Trees_S_Base_color
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 02559d822a2a6db479c5c17839387081
-    m_Address: T_Z_A_Y_01_D_Base_color_1001
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: fec67e4c43a453c45a775b095f4fcc0b
-    m_Address: T_Z_A_Y_01_D_Height_1001
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 25bb08a97867e3f49b22eb00135e8f78
-    m_Address: T_Z_A_Y_01_D_Mixed_AO_1001
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 7c289bc0a9e67ba40a69bb001257740a
-    m_Address: T_Z_A_Y_01_D_Normal_OpenGL_1001
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 00d47dd529bc0d54e82123f3ca84ee72
-    m_Address: T_Z_A_Y_01_S_Base_color_1001
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: c306f7a9d3bc3db47b6192d5eafc8ede
-    m_Address: T_Z_A_Y_01_S_Height_1001
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: e86e830fc4dbe814d9a8ccb1c0ac9064
-    m_Address: T_Z_A_Y_01_S_Mixed_AO_1001
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: a3b8e0720dd1f9142b1185d42f004988
-    m_Address: T_Z_A_Y_01_S_Normal_OpenGL_1001
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
