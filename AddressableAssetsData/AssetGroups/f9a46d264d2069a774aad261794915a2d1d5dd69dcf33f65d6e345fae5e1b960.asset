@@ -42,43 +42,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 289fc8ccea8977d4f84b1f2b81c93852
-    m_Address: Genies@Walk Backward Left
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 0aff325feaf0644429ab68b0fa052173
-    m_Address: Genies@Walk Backward Right
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: aeab579e8ace524488c41b74ebf12457
-    m_Address: Genies@Walk Backward
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: d2b522dc5adf6ab4b9dceccf641716cc
-    m_Address: Genies@Walk Forward Left
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: e68daf13b37a5e846b7976926919c45f
-    m_Address: Genies@Walk Forward Right
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: f05d0b93c935a81419a1cd5c6dd3b781
     m_Address: Genies@Walk Forward
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: d9650276a164e364cbdea672d335157e
-    m_Address: Genies@Walk Left
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: eba2ae30b4c080448a56f12a31cca737
-    m_Address: Genies@Walk Right
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -147,23 +112,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 4f521db4ea6fe1744a12bf7e589e10bb
-    m_Address: NPC
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 198555dfcd23e174ea67f3a5b44b3132
     m_Address: ParticlesUnlit
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 309c50bdd5a1bdf46a107e0329f999d4
-    m_Address: Rainforest
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: b5f6cbbc342227d4784bcd9ce63172ab
-    m_Address: Silver
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -184,11 +134,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: bdc7c61fb84b57145bc2d6230ccd108c
     m_Address: Water
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 74a465d2bae2d3446884ca29232a0eee
-    m_Address: Box
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -1157,11 +1102,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 7dd74fe2f18a30145a67624870ee69b2
-    m_Address: item_pack_mug
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: a67006042548d954e9e630c46922dc39
     m_Address: free_zombie_body_low
     m_ReadOnly: 0
@@ -1847,11 +1787,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 9005d194f8fd58645b6c9d0344d34280
-    m_Address: office@TextingWithMobilephoneLoopable
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: b5ca84504478fd540afc97fe51e26621
     m_Address: zombie@noWeapon_proneBackwards
     m_ReadOnly: 0
@@ -2014,21 +1949,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: a66b30c1eda265241aeca2ce8c8be278
     m_Address: zombie@zombie_walk_right
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 5aa57a9d7312781409c7248c162384b3
-    m_Address: zombie_survival_survivor_2_backbag_onWear
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 8fa3aae2e53281541ba14ea75370023f
-    m_Address: zombie_survival_survivor_3_bag_1_onWear
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 85bfbd3aaae900c41a68c7326274c443
-    m_Address: zombie_survival_survivor_4_shoulderBag_1_onWear
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -2442,51 +2362,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 97eaa060fac881c44863895be30f13cc
-    m_Address: zombie_survival_survivor_2_backbag_onGround
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 17677924d07a16547a3e25f184b16f10
-    m_Address: zombie_survival_survivor_2_backbag_onGround_meshCollider
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 013b636a553316847846d117878fd2a5
-    m_Address: zombie_survival_survivor_3_bag_1_onGround
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 6519a608607bfb843aa552f0770f9b5a
-    m_Address: zombie_survival_survivor_3_bag_1_onGround_meshCollider
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 2126b03993e7e2c4a91ca14860d3f74a
-    m_Address: zombie_survival_survivor_4_shoulderBag_1_onGround
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 5b37999dfa174294d9910da1c9f4fc6a
-    m_Address: zombie_survival_arrow
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: bf1062f864bd7b648b022e1aa7c832bf
-    m_Address: zombie_survival_bow
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 25f864f84e8a00241a454f05fbb0e925
-    m_Address: zombie_survival_bow_string
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: fe5270abd0e16a54f8828a778143ed95
-    m_Address: zombie_survival_knife
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 6888c1d50ca60d146acb58bc5ceec9f5
     m_Address: soldiers_pistol_1
     m_ReadOnly: 0
@@ -2509,11 +2384,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: e66d6d0b3d8107a4ea4e72795f1f8085
     m_Address: zombie_survival_pistol_magazine_empty_1
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 201f78a870a4ff54c959cc822984bb0e
-    m_Address: MobileWoodenMug
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -2779,46 +2649,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 4c96cd007c317bb4695ab573934f546f
     m_Address: Mobile_ZombieSurvival_zombie3
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 9750158a1e0e0064692a098ec745d14d
-    m_Address: Mobile_ZombieSurvival_zombie4
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 3fbac542a4dc78d4591e1ee93aadd8b8
-    m_Address: Mobile_ZombieSurvival_survivor2_Backbag1_onGround
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: f8421c7188ffa4f4f8ca1efa653d62ad
-    m_Address: Mobile_ZombieSurvival_survivor3_Backbag1_onGround
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: d0bbeaf3e6bad6f41a37432a71d8c993
-    m_Address: Mobile_ZombieSurvival_survivor4_ShoulderBag1_onGround
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: d0bd3114dc3949c42b241178a331638a
-    m_Address: Mobile_ZombieSurvival_arrow
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: a5d9da8810fdd404dafbf53bddaf9cce
-    m_Address: Mobile_ZombieSurvival_bow
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 9737350490d925b469ff7f1b43bccf73
-    m_Address: Mobile_ZombieSurvival_bow_strung
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: a25ee684308c88c49b37e87c390e2e4d
-    m_Address: Mobile_ZombieSurvival_knife
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
