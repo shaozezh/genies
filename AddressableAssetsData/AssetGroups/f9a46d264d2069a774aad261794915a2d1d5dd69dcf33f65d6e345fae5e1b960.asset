@@ -82,16 +82,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: b33c1a20f7e57c440abbe3b96faea839
-    m_Address: Enemy
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 98676a252a9a14941b8dcfd9ee4292ce
-    m_Address: Fire
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: d57566d2e9212c746b281f8027eebe87
     m_Address: Gold
     m_ReadOnly: 0
@@ -117,23 +107,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 514b7e4912b2cc64aa1270a1e9d8958f
-    m_Address: SnowLake
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: ac535cc7286353644b693ca44746d75a
-    m_Address: Volcano
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 2d39471dbd668c84ea0ddae36907c4d2
     m_Address: Wall
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: bdc7c61fb84b57145bc2d6230ccd108c
-    m_Address: Water
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
@@ -189,16 +164,6 @@ MonoBehaviour:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 2e665c99631a60240949229fc3dd8fec
     m_Address: MainScene
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 4e8375ac10598f14ea543b9c3baf97c0
-    m_Address: ActiveOrders
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 796a95296d794c647a2b544ece4984f1
-    m_Address: BoxGround
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
