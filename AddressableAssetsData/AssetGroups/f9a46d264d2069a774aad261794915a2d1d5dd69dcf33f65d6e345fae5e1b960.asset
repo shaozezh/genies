@@ -27,11 +27,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: fed87f586e3f9654abbe644ae841d8ff
-    m_Address: Genies@Idle Aiming
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: af40ef784a6deae4b8829a3e27525353
     m_Address: Genies@Mutant Dying
     m_ReadOnly: 0
@@ -47,11 +42,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 9aa602bc5f87ea84d864df1d9f07855b
-    m_Address: Icon
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 6daf76720fb41724d9cd7e77cca0a653
     m_Address: Idle
     m_ReadOnly: 0
@@ -62,18 +52,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 271663cc7c1b4db459d83366a80dfae0
-    m_Address: EggCrack
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
   - m_GUID: 454f80552e6f1624ebedcb6d06a31c32
     m_Address: Laser
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
-  - m_GUID: 204b0177ea4357f4b92aa8c4720d671f
-    m_Address: OpenCap
     m_ReadOnly: 0
     m_SerializedLabels:
     - f9a46d264d2069a774aad261794915a2d1d5dd69dcf33f65d6e345fae5e1b960
