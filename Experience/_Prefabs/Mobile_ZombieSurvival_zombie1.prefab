@@ -21,7 +21,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &498987948707872894
 Transform:
   m_ObjectHideFlags: 0
@@ -803,6 +803,7 @@ GameObject:
   - component: {fileID: 6479553790304784470}
   - component: {fileID: 2074960243447627554}
   - component: {fileID: 8912428928933210278}
+  - component: {fileID: 5694504502052562532}
   m_Layer: 0
   m_Name: Mobile_ZombieSurvival_zombie1
   m_TagString: Untagged
@@ -910,6 +911,22 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: a904cf0a0f5a5f446b646f476b8f3819, type: 2}
+--- !u!114 &5694504502052562532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8198777707358636905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 9914c27eec8ab6b458ef62143fbed5cf, type: 2}
 --- !u!1 &8198777707358636907
 GameObject:
   m_ObjectHideFlags: 0
