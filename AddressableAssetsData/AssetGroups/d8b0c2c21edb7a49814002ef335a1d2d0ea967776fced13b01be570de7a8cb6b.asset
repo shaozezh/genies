@@ -47,11 +47,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - d8b0c2c21edb7a49814002ef335a1d2d0ea967776fced13b01be570de7a8cb6b
-  - m_GUID: aa0ec3f4ee613ce498d17978fa727b56
-    m_Address: GeniesIdle@Sheath A Great Sword 1
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - d8b0c2c21edb7a49814002ef335a1d2d0ea967776fced13b01be570de7a8cb6b
   - m_GUID: 6daf76720fb41724d9cd7e77cca0a653
     m_Address: Idle
     m_ReadOnly: 0
